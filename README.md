@@ -6,6 +6,7 @@ Here, I'll be sharing a repository where I'll compile all the coding problem sol
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/algopriyank/problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/algopriyank/problems/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/algopriyank/problems/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/algopriyank/problems/tree/master/1929-concatenation-of-array) |
@@ -25,4 +26,8 @@ Here, I'll be sharing a repository where I'll compile all the coding problem sol
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/algopriyank/problems/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/algopriyank/problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
